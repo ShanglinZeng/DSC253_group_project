@@ -16,7 +16,7 @@ A multilingual sequence-to-sequence denoising auto-encoder, trained on 50 langua
 **SMaLL-100**  
 A compact and fast massively multilingual MT model covering more than 10K language pairs, achieving competitive results with M2M-100 while being much smaller and faster.
 
-Contributors
+## Contributors
 * **Jiaxian Xiang** (j1xiang@ucsd.edu)  
 * **Shanglin Zeng** (s6zeng@ucsd.edu)  
 * **Ariane Yu** (yiy033@ucsd.edu)  
